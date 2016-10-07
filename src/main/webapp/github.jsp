@@ -6,7 +6,7 @@
 <meta charset="UTF-8"> 
 <title></title> 
 </head>
-<body>
+<body> 
 <H1>Github 실습2222</H1>
 </body>
 </html>
